@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BrewTech Pvt Ltd.<br>🤖 Technologically savvy Programmer, supporting work of databases, servers, system engineering, and clients.<br>Understands website functionality and coding for multiple platforms and meticulously creates fully functional code.<br>🌱 I’m currently learning Kotlin.<br>      Working On Projects Jetpack compose Multiplatform.<br>
+🔭🤖 Technologically savvy Programmer, supporting work of databases, servers, system engineering, and clients.<br>Understands website functionality and coding for multiple platforms and meticulously creates fully functional code.<br>🌱 I’m currently learning Kotlin.<br>      Working On Projects Jetpack compose Multiplatform.<br>
 
 
 ## 🌐 Socials:
