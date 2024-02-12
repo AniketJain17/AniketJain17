@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭🤖 Technologically savvy Programmer, supporting work of databases, servers, system engineering, and clients.<br>Understands website functionality and coding for multiple platforms and meticulously creates fully functional code.<br>🌱 I’m currently learning Kotlin.<br>      Working On Projects Jetpack compose Multiplatform.<br>
+🔭🤖 Student of computer science with a background in AWS, AI, and full-stack development. Proven to be a quick learner and 
+diligent worker, as seen via practical projects. powerful communication abilities<br>🌱 I’m currently learning NextJS.<br>      Working On Projects Chat-clone of discord<br>
 
 
 ## 🌐 Socials:
