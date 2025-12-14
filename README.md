@@ -1,20 +1,13 @@
 # Aniket Jain 👋
 
-Backend-focused developer with hands-on experience building REST APIs, authentication systems, and full-stack web applications.  
-Currently working as an Assistant System Engineer at TCS and actively transitioning into a core backend development role.
+Backend-focused developer building real, hands-on applications with Java, Spring Boot, Node.js, and React.
+
+Currently working as an Assistant System Engineer at TCS and actively transitioning into core backend development.  
+I value clarity, quality code, and practical systems over buzzwords.
 
 ---
 
-## 🧠 What I Actually Do
-- Design and build RESTful APIs
-- Implement authentication & authorization (JWT)
-- Work with relational and NoSQL databases
-- Collaborate with frontend teams to ship features
-- Debug, refactor, and improve existing backend systems
-
----
-
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 **Languages**
 - Java
@@ -22,9 +15,8 @@ Currently working as an Assistant System Engineer at TCS and actively transition
 - SQL
 
 **Backend**
-- Spring Boot
-- Node.js
-- Express.js
+- Spring Boot (REST APIs, JWT)
+- Node.js, Express.js
 
 **Frontend**
 - React.js
@@ -33,32 +25,41 @@ Currently working as an Assistant System Engineer at TCS and actively transition
 **Databases**
 - MongoDB
 - MySQL
-- PostgreSQL (basic)
 
 **Tools**
 - Git & GitHub
-- Docker (basic usage)
+- Docker (basic)
 - Postman
 - Linux (CLI)
 
 ---
 
-## 📂 Selected Projects
-> Projects listed here are real, hands-on, and built end-to-end.  
-(Details intentionally kept concise — code speaks louder.)
+## 📂 Featured Projects
 
-🔹 *Projects will be curated after repository cleanup*
+Below are projects from this GitHub account with real implementation and code:
+
+### 🔹 **Library-Management-System**
+A Python-based library management system with search, issue, and return features.  
+Used as a practical learning project to develop structured program design and file handling.  
+🔗 https://github.com/AniketJain17/Library-Management-System
+
+### 🔹 **LGMVIP-WebDev**
+A hands-on web development project built during the Lets Grow More Virtual Internship.  
+Includes static frontend pages showcasing layout, navigation, and UI fundamentals.  
+🔗 https://github.com/AniketJain17/LGMVIP-WebDev
+
+> Notice: Beginner or learning repos like games, simple scripts, and template forks are not highlighted here — they don’t reflect production-ready work.
 
 ---
 
-## 🎯 Current Focus
-- Strengthening backend fundamentals
-- Improving DSA problem-solving
-- Building production-grade backend projects
-- Preparing for backend developer interviews
+## 🎯 What I’m Working On
+- Backend APIs with Spring Boot and Node.js
+- Strengthening algorithms & system design fundamentals
+- Building polished, real-world applications
 
 ---
 
-## 📫 Reach Me
-- Email: aniketjainrch10@gmail.com  
-- LinkedIn: https://linkedin.com/in/-aniket-jain-/
+## 📫 Connect with Me
+📧 aniketjainrch10@gmail.com  
+🔗 https://linkedin.com/in/-aniket-jain-/
+
